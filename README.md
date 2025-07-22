@@ -1,7 +1,7 @@
 # Hi there, I'm Nidhi Parikh! 👋
 
 ## About me
-Hey! I'm someone who gets genuinely excited about finding stories hidden in data. What started as a curiosity about numbers has turned into a 5+ year journey of exploring datasets from shipping routes to financial markets. I love that moment when messy data suddenly reveals a clear pattern that can actually help people make better decisions.
+I'm someone who gets genuinely excited about finding stories hidden in data. What started as a curiosity about numbers has turned into a 5+ year journey of exploring datasets from shipping routes to financial markets. I love that moment when messy data suddenly reveals a clear pattern that can actually help people make better decisions.
 
 Here are some ideas to get you started:
 
