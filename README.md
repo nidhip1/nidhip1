@@ -24,3 +24,29 @@ Here are some ideas to get you started:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Capital IQ](https://img.shields.io/badge/Capital%20IQ-0052CC?style=for-the-badge&logo=sp&logoColor=white)
+### AI & Automation Tools
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078D4?style=for-the-badge&logo=alteryx&logoColor=white)
+### Collaboration & Documentation
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/LucidChart-F37C20?style=for-the-badge&logo=lucidchart&logoColor=white)
+
+## 💼 Professional Highlights
+- Improved reporting accuracy and reduced cost variance by 5-6% through advanced planning models
+- Resolved 168+ trade discrepancies using MySQL and root cause analysis, cutting P&L risk by USD 2.5M annually
+- Analyzed 500k+ global commodity trade records to deliver market insights and support strategic decisions
+- Automated ETL workflows for 25+ data sources, enhancing data quality by 40%
+- Led system migrations handling 5K+ client records with zero data loss under tight deadlines
+
+## 📊 What I Do Best
+- **Data Analysis & Manipulation:** Transforming raw data into meaningful insights 
+- **Business Intelligence:** Creating interactive dashboards and KPI monitoring systems
+- **ETL Processes:** Designing efficient data pipelines and workflows
+- **Data Quality Assurance:** Ensuring data integrity through validation and testing
+- **Cross-functional Collaboration:** Working seamlessly across teams and departments
+- **Technical Translation:** Bridging the gap between technical complexity and business understanding - I love making data accessible to non-technical       team members
+
+## 🤝 Let's Connect!
+[LinkedIn](https://linkedin.com/in/nidhi-parikh19)
