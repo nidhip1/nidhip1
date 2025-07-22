@@ -47,6 +47,3 @@ Here are some ideas to get you started:
 - **Data Quality Assurance:** Ensuring data integrity through validation and testing
 - **Cross-functional Collaboration:** Working seamlessly across teams and departments
 - **Technical Translation:** Bridging the gap between technical complexity and business understanding - I love making data accessible to non-technical       team members
-
-## 🤝 Let's Connect!
-[LinkedIn](https://linkedin.com/in/nidhi-parikh19)
