@@ -5,7 +5,7 @@ I'm someone who gets genuinely excited about finding stories hidden in data. Wha
 
 Here are some ideas to get you started:
 
-- 🔭 Currently returning from a brief career break which I took to travel, self-reflect and up-skill - ready to dive back into making data analysis and      visualization more impactful for everyone!
+- 🔭 Currently returning from a brief career break which I took to travel, self-reflect and up-skill - ready to dive back into making data analysis and visualization more impactful for everyone!
 - 🌱 Learning different flavours of SQL, Python and Power Apps because there's always something new to discover in the data world
 - 💼 I've had the chance to work with some amazing teams at JPMorgan Chase and S&P Global, where I got to play with millions of records (yes, that's as         fun as it sounds!)
 - 📊 I genuinely believe data can tell better stories than most novels
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 💼 Professional Highlights
 - Improved reporting accuracy and reduced cost variance by 5-6% through advanced planning models
-- Resolved 168+ trade discrepancies using MySQL and root cause analysis, cutting P&L risk by USD 2.5M annually
+- Resolved 168+ trade discrepancies using SQL queries and root cause analysis, cutting P&L risk by USD 2.5M annually
 - Analyzed 500k+ global commodity trade records to deliver market insights and support strategic decisions
 - Automated ETL workflows for 25+ data sources, enhancing data quality by 40%
 - Led system migrations handling 5K+ client records with zero data loss under tight deadlines
