@@ -8,7 +8,7 @@ I'm someone who gets genuinely excited about finding stories hidden in data. Wha
 - 💼 I've had the chance to work with some amazing teams at JPMorgan Chase and S&P Global, where I got to play with millions of records (yes, that's as         fun as it sounds!)
 - 📊 I genuinely believe data can tell better stories than most novels
 - 💬 Ask me about SQL learning resources, Power BI dashboard design, career transitions in data analytics, or travel stories from my recent break
-- 📫 How to reach me: connect on [LinkedIn](https://linkedin.com/in/nidhi-parikh19)
+- 📫 How to reach me: Write to me [Email](nparikh2211@gmail.com)
 - 😄 Pronouns: She/Her
 - 🌍 Calling India home
 - ⚡ Fun fact: I once migrated 5,000+ client records in just 6 hours with zero data loss (and yes, I was probably running on way too much masala chai!)
