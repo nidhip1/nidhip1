@@ -11,7 +11,7 @@ I'm someone who gets genuinely excited about finding stories hidden in data. Wha
 - 😄 Pronouns: She/Her
 - 🌍 Calling India home
 - ⚡ Fun fact: I once migrated 5,000+ client records in just 6 hours with zero data loss (and yes, I was probably running on way too much masala chai!)
-- 📫 Contact & Links: 📄[Resume (PDF)](https://github.com/user-attachments/files/21748635/Nidhi_Parikh_Data_Analyst_Resume_2025.pdf)
+- 📫 Contact & Links: 📄[Resume (PDF)](https://github.com/user-attachments/files/21749468/Nidhi_Parikh_Data_Analyst_Resume_2025.pdf)
                        💼[LinkedIn](https://www.linkedin.com/in/nidhi-parikh19)
 
 
